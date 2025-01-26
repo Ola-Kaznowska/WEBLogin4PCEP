@@ -5,7 +5,7 @@ Back-End WEB Application. The user logs in with a minimum of an 8-character pass
 
 Instructions for using the program:
 
-STEP 1: Install python from the official site: https://www.python.org/
-STEP 2: Install Visual Studio Code the offiicial site: https://code.visualstudio.com/
-STEP 3: Run the code.
-STEP 4: Enter the WEB application via the site's IP
+# STEP 1: Install python from the official site: https://www.python.org/
+# STEP 2: Install Visual Studio Code the offiicial site: https://code.visualstudio.com/
+# STEP 3: Run the code.
+# STEP 4: Enter the WEB application via the site's IP
